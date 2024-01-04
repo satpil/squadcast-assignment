@@ -1,5 +1,4 @@
 <div align=“center” style=“margin-top:20px”>
-  <img src=“./src/assets/images/logo.png” style=“width:100px” alt=“Oddz”/>
   <h3>Squadcast</h3>
 </div>
 
