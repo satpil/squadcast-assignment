@@ -1,0 +1,26 @@
+.main{
+    display: flex;
+    width: 500px;
+    height: 200px;
+    flex-direction: column;
+    border: 1px solid #000;
+    padding: 80px;
+    border-radius: 5px;
+}
+.container {
+    display: flex;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    flex-direction: column;
+    width: 30%;
+    margin-top: 10px;
+    height: 100px;
+    overflow: scroll;
+  }
+  .item {
+    cursor: pointer;
+  }
+  .item:hover{
+    background-color: #eee;
+  }
