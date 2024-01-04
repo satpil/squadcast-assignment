@@ -44,7 +44,7 @@ TeleMEDix/
 
 #### First time setup
 
-The first step to running Oddz locally is downloading the code by cloning the repository:
+The first step to running locally is downloading the code by cloning the repository:
 
 clone
 ```sh
