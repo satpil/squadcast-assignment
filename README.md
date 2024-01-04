@@ -36,16 +36,17 @@ TeleMEDix/
     │
     ├── public
     ├── ...
-
+```
 
 ##### Rules
 
 - **No `console.log`s in any file**: we are removing `console.log` after develping done.
 
-### First time setup
+#### First time setup
 
 The first step to running Oddz locally is downloading the code by cloning the repository:
 
+clone
 ```sh
 git clone https://github.com/satpil/squadcast-assignment.git
 ```
